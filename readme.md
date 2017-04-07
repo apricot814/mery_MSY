@@ -24,9 +24,6 @@
 * `ime-mode`は廃止されたよ
 
 
-## 更新履歴
-2017/04/07 とりあえずうｐ
-
 ## ライセンス的な
 * HTML5タグはucky氏のHTML5構文ファイルを流用したが、spanがのけものになってたので勝手に追加。
 * ダブルクォーテーション部分の色分けの正規表現は[こちら](http://www.haijin-boys.com/index.php?fuseaction=discussions.replies&discussion_id=2942 "正規表現で文字列データを検索したい場合。")
